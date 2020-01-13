@@ -162,6 +162,14 @@ Deep Joint Image Filtering [[Paper]](https://pdfs.semanticscholar.org/9bc0/d4609
 Fully convolutional networks for semantic segmentation [[Paper]](https://arxiv.org/abs/1411.4038) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/FCN.md)
    * Long J, Shelhamer E, Darrell T. Fully convolutional networks for semantic segmentation[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 3431-3440.
 
+### Video Editing
+Deep Video Color Propagation [[Paper]](https://arxiv.org/abs/1808.03232) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/documents/deepcolorprop/deepvideocolorprop.md)
+  * Meyer S, Cornillère V, Djelouah A, et al. Deep Video Color Propagation. BMVC 2018.
+
+### Deep Matching
+AnchorNet: A Weakly Supervised Network to Learn Geometry-sensitive Features For Semantic Matching [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Novotny_AnchorNet_A_Weakly_CVPR_2017_paper.pdf) [[Note]](https://github.com/sunshineatnoon/Paper-Collection/blob/master/documents/anchorNet/anchorNet.md)
+  * Novotný D, Larlus D, Vedaldi A. AnchorNet: A Weakly Supervised Network to Learn Geometry-Sensitive Features for Semantic Matching, CVPR. 2017
+
 ### Open Courses
 * CS231n: Convolutional Neural Networks for Visual Recognition [[Course Page]](http://vision.stanford.edu/teaching/cs231n/index.html)
 * CS224d: Deep Learning for Natural Language Processing [[Course Page]](http://cs224d.stanford.edu/index.html)
